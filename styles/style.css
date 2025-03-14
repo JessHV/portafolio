@@ -88,6 +88,7 @@ body{
     flex-direction: column;
     align-items: center;
     gap: 2rem; /*32px*/
+    padding-bottom: 0.5rem;
 }
 
 .presentacion__redes__titulo{
@@ -99,8 +100,8 @@ body{
 
 .presentacion__redes__link{
     width: 70%; /*378px*/
-    padding: 1.35rem 0; /*21.5px*/
-    border-radius: 0.5rem; /*8px*/
+    padding: 1rem 0; /*16px*/
+    border-radius: 0.9rem;
     color: white;
     font-family: var(--letra-monse);
     font-size: 1.5rem;
@@ -123,7 +124,7 @@ body{
 }
 
 .presentacion__img{
-    width: 40%;
+    width: 30%;
     background-color: var(--color-secundario);
     border-radius: 50%;
 }
@@ -189,5 +190,6 @@ footer ul{
         gap: 2rem; /*32px*/
         padding-top: 1rem;
         margin-top: 1rem;
+        align-items: center;
     }
 }
