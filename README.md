@@ -14,4 +14,4 @@
 
 ### Jessica HV
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/jessica-hancco/)
+### Linkedin: [https://www.linkedin.com/in/jessica-hancco/](https://www.linkedin.com/in/jessica-hancco/)
